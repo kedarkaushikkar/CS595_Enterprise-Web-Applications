@@ -7,7 +7,7 @@
 -	Email Alerts
 -	Order Tracking
 
-NOTE: Please open the readme.pdf in each project to view the output screen and detailed explaination of every functionality in that project.
+NOTE: Please open the Output.pdf in each project to view the output screenshots of my website and detailed explaination of every functionality in that project.
 
 •	Add ajax pagination and sort.
 •	Add ajax search to load the product listigs after user cliks search/clear
