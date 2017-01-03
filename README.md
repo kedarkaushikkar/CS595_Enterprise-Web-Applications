@@ -7,11 +7,11 @@
 -	Email Alerts
 -	Order Tracking
 
-•	->Add ajax pagination and sort.
-•	->Add ajax search to load the product listigs after user cliks search/clear
-•	->Add ajax to load product listing after user clicks on category.
-•	->Remove Products
-•	->Assign categories (Accessories) to products
+•	Add ajax pagination and sort.
+•	Add ajax search to load the product listigs after user cliks search/clear
+•	Add ajax to load product listing after user clicks on category.
+•	Remove Products
+•	Assign categories (Accessories) to products
 •	Make many more items and edit prices using admin login
 •	Testing logged in user order creation & cancellation.
 •	Testing non logged in user order creation & cancellation. (need to use URL to find order)
