@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+
+<!--
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+-->
+
+
+
+<html>
+ <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Game Center Login Page</title>
+    <link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+ <body>
+<div id="container">
+<header>
+<h1><a href='/'>Game<span>Center</span></a></h1>
+</header>
+    <form id='register' action='Register.jsp' method='post'
+    accept-charset='UTF-8'>
+         <h4>Enter your Form Details</h4>
+        <label for='name' >Your Full Name*: </label>
+        <input type='text' name='name' id='name' maxlength="50" />
+        <br><br>
+        <label for='username' >UserName*:</label>
+        <input type='text' name='username' id='username' maxlength="50" />
+         <br><br>
+        <label for='password' >Password*:</label>
+        <input type='password' name='password' id='password' maxlength="50" />
+        <br><br>
+        <input type='submit' name='Submit' value='Submit' />
+    </form>
+    <br>
+    <br>
+    <a href='/asg3/login.jsp'>Go Back To Login</a>
+<footer>
+    <div class="footer-bottom">
+        <p>CSP 595 - Enterprise Web Application - Assignment 3</p>
+    </div>
+</footer>
+</div>
+ </body>
+</html>
+
+
